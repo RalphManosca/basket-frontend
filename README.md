@@ -297,10 +297,6 @@ Cool! Here's the flow:
 4. Push it up: `git push origin feature/my-cool-feature`
 5. Open a Pull Request
 
-## License
-
-This is part of the Cinch Coding Assignment.
-
 ## Need Help?
 
 Run into issues? Open an issue on GitHub and I'll take a look!
